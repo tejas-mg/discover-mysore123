@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+
+# Node modules (if using npm packages in future)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files (if using build tools in future)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# OS backup files
+*~
+*.bak
